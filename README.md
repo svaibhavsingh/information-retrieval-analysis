@@ -16,10 +16,15 @@ Also in python terminal, the following 5 stats will be printed for each inverted
 2. Maximum Length of Postings List
 3. Minimum Length of Postings List
 4. Average Length of Postings List
-5. Size of the file that stores the inverted index </br>
+5. Size of the file that stores the inverted index
+
+</br>
 Section 2:
+</br>
 Most frequent, median and least frequent K (20) words, their Posting List size and for each of these words, average gap between documents in the Postings List are printed in terminal. The value of K can be changed by changing the variable K inside the source code.</br>
 Section 3:
+</br>
 A png file containing the graph for 'log of the rank of the term' vs 'log of collection frequency of the term' will be generated in the same directory named “logRankCollectionFreq”.</br>
 Section 4:
+</br>
 A png file containing the graph for 'log of the number of tokens already seen' vs 'log of the vocabulary size' will be generated in the same directory named “logTokenVacabulary”.</br></br>
